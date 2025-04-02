@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang = eng>
+<head>
+<title> Portofolio Website</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+	<header>
+	<img src=""/>
+	<nav>
+		<ul>
+			<li>
+	                   <a href="#home"> Home<a/>
+			</li>
+			<li>
+	                   <a href="#about"> About me<a/>
+			</li>
+			<li>
+	                   <a href="#contact">Contact Us<a/>
+			</li>
+		</ul>
+	</nav>
+	</header>
+	<main>
+		<section id="home>
+			<img src="" alt=""/>
+		</section>
+		<section id ="about">
+			<p>
+                         I am a dedicated and flexible professional with strong programming skills in Python, Java, C#, SQL, HTML5, CSS3, JavaScript, and WordPress. 
+                         My ability to quickly learn and adapt allows me to excel in problem-solving and tackle any challenges presented. 
+                         I also have extensive experience in technical support, where I gained expertise in the installation, configuration, 
+                         and maintenance of computer systems and printers. 
+                         I'm continuously seeking opportunities to expand my skill set and deepen my technical knowledge, am always striving for growth and improvement.
+			</p>
+			<img src="" alt=""/>
+		</section>
+	</main>	
+	<footer>
+		<section="contact>
+			<p> address</p>
+			<p> additional quick links</p>
+			<img src="" alt="" />
+			
+		</section>
+	</footer>
+                <section>
+                         <a href="">
+                         <img src="" alt="Linkedin">
+                         </a>
+                         <a>""</a>
+                         
+                </section>
+        	
+
+
+
+</body>
+</html>
